@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomasz Dyrda</h1>
 <h3 align="center">A passionate frontend and backend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Asp.Net, C#, HTML5, CSS3, JavaScript, MS SQL Server**
+- 🌱 I’m currently learning **Asp.Net, C#, HTML5, CSS3, JavaScript, MS SQL Server, DevExpress, WinForms, MAUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tomek2699](https://github.com/Tomek2699)
 
